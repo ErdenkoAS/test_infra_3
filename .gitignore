@@ -1,0 +1,6 @@
+# данные раздаются отдельно и при проверке подкладываются автоматически
+data/
+.ipynb_checkpoints/
+__pycache__/
+.grader/
+.pytest_cache/
